@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">Hi there, I'm Salman 👋<br><br>🎓 Digital Forensics & Cybersecurity Student based in Pakistan.<br>⚙️ Focused on offensive security, digital forensics, automated threat detection, and custom tool development.<br><br>• Focus Areas: Penetration Testing, Digital Forensics, Red Teaming Tools, and Privacy Frameworks.<br>• Primary Stack: Python, Linux Automation, Bash, Git.<br>• Current Projects: Building custom Python utilities for attack surface reduction and audio artifact analysis.<br>• Side Ventures: Founder & Guitarist for indie rock band Khanabadoosh</h3>
+<h4 data-importer="text" align="left">Hi there, I'm Salman 👋<br><br>🎓 Digital Forensics & Cybersecurity Student based in Pakistan.<br>⚙️ Focused on offensive security, digital forensics, automated threat detection, and custom tool development.<br><br>• Focus Areas: Penetration Testing, Digital Forensics, Red Teaming Tools, and Privacy Frameworks.<br>• Primary Stack: Python, Linux Automation, Bash, Git.<br>• Current Projects: Building custom Python utilities for attack surface reduction and audio artifact analysis.<br>• Side Ventures: Founder & Guitarist for indie rock band Khanabadoosh</h4>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -113,7 +113,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
