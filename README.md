@@ -112,7 +112,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=false" height="153" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=false" height="155" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
