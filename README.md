@@ -65,8 +65,8 @@
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=false" height="150" alt="Languages Graph" />
-  <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
+  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=false" width="411" alt="Languages Graph" />
+  <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" width="457" alt="Streak Graph" />
 </div>
 
 <div align="center">
