@@ -60,12 +60,8 @@
 ### 🔐 Badges & Platform Profiles
 
 <div align="center">
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=212C42&logoColor=red&style=for-the-badge" alt="TryHackMe" />
-  </a>
-  <a href="https://www.hackthebox.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Hack+The+Box&logo=hackthebox&label=&color=9FEF00&logoColor=black&style=for-the-badge" alt="Hack The Box" />
-  </a>
+  <a href="https://tryhackme.com/p/H1ck3rB0t" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=212C42&logoColor=red&style=for-the-badge" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019daab6-8c5e-73fa-a794-4722a2577763" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Hack+The+Box&logo=hackthebox&label=&color=9FEF00&logoColor=black&style=for-the-badge" alt="Hack The Box" /></a>
 </div>
 
 ---
@@ -91,18 +87,10 @@
 ### 💬 Connect & Socials
 
 <div align="center">
-  <a href="https://discord.com/users/712055630709391402" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:salmanjawed2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://pk.linkedin.com/in/hixzi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/xhixzix?s=11&t=jZ8kF4MzQNTqajHWrWBuyg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
+  <a href="https://discord.com/users/712055630709391402" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="mailto:salmanjawed2001@gmail.com" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://pk.linkedin.com/in/hixzi" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://x.com/xhixzix?s=11&t=jZ8kF4MzQNTqajHWrWBuyg" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" /></a>
 </div>
 
 <br/>
