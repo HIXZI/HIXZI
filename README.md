@@ -1,139 +1,149 @@
-<h4 data-importer="text" align="left">Hi there, I'm Salman 👋<br><br>🎓 Digital Forensics & Cybersecurity Student based in Pakistan.<br>⚙️ Focused on offensive security, digital forensics, automated threat detection, and custom tool development.<br><br>• Focus Areas: Penetration Testing, Digital Forensics, Red Teaming Tools, and Privacy Frameworks.<br>• Primary Stack: Python, Linux Automation, Bash, Git.<br>• Current Projects: Building custom Python utilities for attack surface reduction and audio artifact analysis.<br>• Side Ventures: Founder & Guitarist for indie rock band Khanabadoosh</h4>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llOXF3NGZzdHVnMXUzN251anoydWF1eTR6YjlzYnAxbmZ6MmkxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif"  />
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" alt="canva logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="25" alt="debian logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" alt="django logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="fastapi logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="25" alt="fedora logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="25" alt="facebook logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="googlecloud logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="25" alt="jira logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="notion logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" alt="numpy logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" alt="pandas logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="25" alt="rails logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="25" alt="redhat logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="25" alt="ruby logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="25" alt="salesforce logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="sqlite logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="25" alt="ubuntu logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="25" alt="kaggle logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="25" alt="apache logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20%7C%20HIXZI&fontSize=42&fontColor=FFFFFF&animation=twinkling&theme=tokyonight&desc=Digital%20Forensics%20%26%20Cybersecurity%20Researcher&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 </div>
 
-###
+<div align="center">
+  <h3>🎓 Digital Forensics & Cybersecurity Student based in Pakistan 🇵🇰</h3>
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Offensive+Security+%26+Red+Teaming;Digital+Forensics+%26+Artifact+Analysis;Custom+Python+Security+Tooling;Founder+%26+Guitarist+%40+Khanabadoosh" alt="Typing SVG" /></a>
+  </p>
+</div>
 
-<div data-importer="socials" align="center">
+<br/>
+
+### ⚡ About Me
+
+- 🔭 **Focus Areas:** Penetration Testing, Digital Forensics, Red Teaming Tools, and Privacy Frameworks.
+- 🛡️ **Current Projects:** Building custom Python utilities for attack surface reduction & audio artifact analysis.
+- 🎸 **Side Venture:** Founder & Lead Guitarist for indie rock band **Khanabadoosh**.
+- 🔐 **Security Philosophy:** *Automate defenses, dissect artifacts, harden systems.*
+
+---
+
+### 🧰 Technical & Security Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cybersecurity & Forensics</h4>
+      <img src="https://img.shields.io/badge/Kali_Linux-557CDA?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Digital_Forensics-000000?style=for-the-badge&logo=linux&logoColor=green"/>
+      <img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge&logo=metasploit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nmap-4B6EAF?style=for-the-badge&logo=linux&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Scripting</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐧 Systems & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Frameworks & Backend</h4>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔬 Featured Projects & Tools
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **Attack Surface Reduction Tool** | Automated Python utility to scan, audit, and minimize external attack surfaces. | `Python` `Linux` `Bash` | 🟢 Active |
+| 🔍 **Audio Artifact Analyzer** | Digital forensic tool for inspecting, filtering, and analyzing hidden audio signals. | `Python` `NumPy` `SciPy` | 🟢 Active |
+| 🚩 **CTF Writeups & Lab Notes** | Collection of offensive security challenges, lab solutions, and exploit walkthroughs. | `Markdown` `Security` | 📚 Ongoing |
+
+---
+
+### 🔐 Badges & Platform Profiles
+
+<div align="center">
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  </a>
+  <a href="https://www.hackthebox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  </a>
+  <a href="https://github.com/HIXZI" target="_blank">
+    <img src="https://img.shields.io/badge/Security_Focus-Digital_Forensics-blue?style=for-the-badge&logo=shield" alt="Forensics" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HIXZI&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIXZI&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=6" height="175" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=8" height="150" alt="Streak Graph" />
+</div>
+
+<br/>
+
+<details>
+  <summary>👾 <b>Click to reveal Pacman Contribution Map</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
+</details>
+
+---
+
+### 💬 Connect & Socials
+
+<div align="center">
   <a href="https://discord.com/users/712055630709391402" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:salmanjawed2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://pk.linkedin.com/in/hixzi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/xhixzix?s=11&t=jZ8kF4MzQNTqajHWrWBuyg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
 
-###
+<br/>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=false" height="155" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://count.getloli.com/@:HIXZI?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
 
-###
+<br/>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:HIXZI?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" width="100%" alt="Footer Banner" />
 </div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
