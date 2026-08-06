@@ -62,6 +62,8 @@
 <div align="center">
   <a href="https://tryhackme.com/p/H1ck3rB0t" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=212C42&logoColor=red&style=for-the-badge" alt="TryHackMe" /></a>
   <a href="https://profile.hackthebox.com/profile/019daab6-8c5e-73fa-a794-4722a2577763" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Hack+The+Box&logo=hackthebox&label=&color=9FEF00&logoColor=black&style=for-the-badge" alt="Hack The Box" /></a>
+  <a href="https://www.credly.com/" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Credly&logo=credly&label=&color=FF6B00&logoColor=white&style=for-the-badge" alt="Credly" /></a>
+  <a href="https://www.skills.google/public_profiles/840ce922-2247-419f-92cd-e942ee8adda3" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Google+Skills+Boost&logo=googlecloud&label=&color=4285F4&logoColor=white&style=for-the-badge" alt="Google Skills Boost" /></a>
 </div>
 
 ---
