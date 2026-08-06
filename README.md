@@ -1,15 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20%7C%20HIXZI&fontSize=42&fontColor=FFFFFF&animation=twinkling&theme=tokyonight&desc=Digital%20Forensics%20%26%20Cybersecurity%20Researcher&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
-</div>
+<h1 align="left">Hi there, I'm Salman 👋</h1>
 
-<div align="center">
-  <h3>🎓 Digital Forensics & Cybersecurity Student based in Pakistan 🇵🇰</h3>
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Offensive+Security+%26+Red+Teaming;Digital+Forensics+%26+Artifact+Analysis;Custom+Python+Security+Tooling;Founder+%26+Guitarist+%40+Khanabadoosh" alt="Typing SVG" /></a>
-  </p>
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llOXF3NGZzdHVnMXUzN251anoydWF1eTR6YjlzYnAxbmZ6MmkxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif" alt="Hacker GIF" />
 
-<br/>
+<h4>🎓 Digital Forensics & Cybersecurity Student based in Pakistan 🇵🇰</h4>
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=700&lines=Offensive+Security+%26+Red+Teaming;Digital+Forensics+%26+Artifact+Analysis;Custom+Python+Security+Tooling;Founder+%26+Guitarist+%40+Khanabadoosh" alt="Typing SVG" />
+  </a>
+</p>
 
 ### ⚡ About Me
 
@@ -22,47 +21,21 @@
 
 ### 🧰 Technical & Security Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ Cybersecurity & Forensics</h4>
-      <img src="https://img.shields.io/badge/Kali_Linux-557CDA?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Digital_Forensics-000000?style=for-the-badge&logo=linux&logoColor=green"/>
-      <img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge&logo=metasploit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nmap-4B6EAF?style=for-the-badge&logo=linux&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Scripting</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐧 Systems & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Frameworks & Backend</h4>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+**🛡️ Cybersecurity & Forensics**
+<br/>
+<img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kalilinux&label=&color=557CDA&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Burp+Suite&logo=burpsuite&label=&color=FF6600&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Wireshark&logo=wireshark&label=&color=1679A7&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Metasploit&logo=metasploit&label=&color=00599C&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Nmap&logo=linux&label=&color=4B6EAF&logoColor=white&style=for-the-badge"/>
+
+**💻 Languages & Scripting**
+<br/>
+<img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&label=&color=4EAA25&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&label=&color=00599C&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&style=for-the-badge"/>
+
+**🐧 Systems & Infrastructure**
+<br/>
+<img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Debian&logo=debian&label=&color=A81D33&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Fedora&logo=fedora&label=&color=51A2DA&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Ubuntu&logo=ubuntu&label=&color=E95420&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge"/>
+
+**⚡ Frameworks & Backend**
+<br/>
+<img src="https://img.shields.io/static/v1?message=FastAPI&logo=fastapi&label=&color=009688&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Django&logo=django&label=&color=092E20&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&label=&color=339933&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Next.js&logo=nextdotjs&label=&color=000000&logoColor=white&style=for-the-badge"/>
 
 ---
 
@@ -80,13 +53,10 @@
 
 <div align="center">
   <a href="https://tryhackme.com" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=212C42&logoColor=red&style=for-the-badge" alt="TryHackMe" />
   </a>
   <a href="https://www.hackthebox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  </a>
-  <a href="https://github.com/HIXZI" target="_blank">
-    <img src="https://img.shields.io/badge/Security_Focus-Digital_Forensics-blue?style=for-the-badge&logo=shield" alt="Forensics" />
+    <img src="https://img.shields.io/static/v1?message=Hack+The+Box&logo=hackthebox&label=&color=9FEF00&logoColor=black&style=for-the-badge" alt="Hack The Box" />
   </a>
 </div>
 
@@ -95,27 +65,18 @@
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIXZI&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIXZI&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/HIXZI/HIXZI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=false" height="150" alt="Languages Graph" />
+  <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HIXZI&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=8" height="150" alt="Streak Graph" />
-</div>
-
-<br/>
-
-<details>
-  <summary>👾 <b>Click to reveal Pacman Contribution Map</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/HIXZI/HIXZI/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
   </picture>
-</details>
+</div>
 
 ---
 
@@ -123,27 +84,21 @@
 
 <div align="center">
   <a href="https://discord.com/users/712055630709391402" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:salmanjawed2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://pk.linkedin.com/in/hixzi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://x.com/xhixzix?s=11&t=jZ8kF4MzQNTqajHWrWBuyg" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:HIXZI?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" width="100%" alt="Footer Banner" />
+  <img src="https://komarev.com/ghpvc/?username=HIXZI&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
