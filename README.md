@@ -1,10 +1,9 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llOXF3NGZzdHVnMXUzN251anoydWF1eTR6YjlzYnAxbmZ6MmkxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif" height="135" alt="Hacker GIF" />
 
-# Hi there, I'm Salman 👋
+### Hi there, I'm Salman 👋
 #### 🎓 Digital Forensics & Cybersecurity Student based in Pakistan 🇵🇰
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=550&lines=Offensive+Security+%26+Red+Teaming;Digital+Forensics+%26+Artifact+Analysis;Custom+Python+Security+Tooling;Founder+%26+Guitarist+%40+Khanabadoosh)](https://git.io/typing-svg)
-
 ### ⚡ About Me
 
 - 🔭 **Focus Areas:** Penetration Testing, Digital Forensics, Red Teaming Tools, and Privacy Frameworks.
