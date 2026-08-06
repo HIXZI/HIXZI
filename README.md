@@ -1,14 +1,17 @@
-<h1 align="left">Hi there, I'm Salman 👋</h1>
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llOXF3NGZzdHVnMXUzN251anoydWF1eTR6YjlzYnAxbmZ6MmkxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif" alt="Hacker GIF" />
-
-<h4>🎓 Digital Forensics & Cybersecurity Student based in Pakistan 🇵🇰</h4>
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=700&lines=Offensive+Security+%26+Red+Teaming;Digital+Forensics+%26+Artifact+Analysis;Custom+Python+Security+Tooling;Founder+%26+Guitarist+%40+Khanabadoosh" alt="Typing SVG" />
-  </a>
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="70%">
+      <h1>Hi there, I'm Salman 👋</h1>
+      <h4>🎓 Digital Forensics & Cybersecurity Student based in Pakistan 🇵🇰</h4>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=550&lines=Offensive+Security+%26+Red+Teaming;Digital+Forensics+%26+Artifact+Analysis;Custom+Python+Security+Tooling;Founder+%26+Guitarist+%40+Khanabadoosh" alt="Typing SVG" />
+      </a>
+    </td>
+    <td valign="top" align="right" width="30%">
+      <img height="135" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llOXF3NGZzdHVnMXUzN251anoydWF1eTR6YjlzYnAxbmZ6MmkxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif" alt="Hacker GIF" />
+    </td>
+  </tr>
+</table>
 
 ### ⚡ About Me
 
