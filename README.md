@@ -21,9 +21,17 @@
 
 ### 🧰 Technical & Security Stack
 
-**🛡️ Cybersecurity & Forensics**
+**⚔️ Offensive Security & Pentesting**
 <br/>
-<img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kalilinux&label=&color=557CDA&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Burp+Suite&logo=burpsuite&label=&color=FF6600&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Wireshark&logo=wireshark&label=&color=1679A7&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Metasploit&logo=metasploit&label=&color=00599C&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Nmap&logo=linux&label=&color=4B6EAF&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kalilinux&label=&color=557CDA&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Burp+Suite&logo=burpsuite&label=&color=FF6600&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Metasploit&logo=metasploit&label=&color=00599C&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Nmap&logo=linux&label=&color=4B6EAF&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Wireshark&logo=wireshark&label=&color=1679A7&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=John+the+Ripper&logo=linux&label=&color=333333&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=OWASP+ZAP&logo=owasp&label=&color=005A9C&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Aircrack--ng&logo=linux&label=&color=C0392B&logoColor=white&style=for-the-badge"/>
+
+**🔍 Digital Forensics & Reverse Engineering**
+<br/>
+<img src="https://img.shields.io/static/v1?message=Ghidra&logo=ghidra&label=&color=AA0000&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Volatility&logo=linux&label=&color=27AE60&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Autopsy&logo=linux&label=&color=2980B9&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=CyberChef&logo=linux&label=&color=E67E22&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Audio+Forensics&logo=linux&label=&color=8E44AD&logoColor=white&style=for-the-badge"/>
+
+**🌐 Recon & OSINT**
+<br/>
+<img src="https://img.shields.io/static/v1?message=Shodan&logo=shodan&label=&color=D35400&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Maltego&logo=linux&label=&color=16A085&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Recon--ng&logo=linux&label=&color=34495E&logoColor=white&style=for-the-badge"/>
 
 **💻 Languages & Scripting**
 <br/>
