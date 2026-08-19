@@ -9,7 +9,7 @@
 - 🔭 **Focus Areas:** Penetration Testing, Digital Forensics, Red Teaming Tools, and Privacy Frameworks.
 - 🛡️ **Current Projects:** Building custom Python utilities for attack surface reduction & audio artifact analysis.
 - 🎸 **Side Venture:** Founder & Guitarist for indie rock band **Khanabadoosh**.
-- 🔐 **Security Philosophy:** *Automate defenses, dissect artifacts, harden systems.*
+- 🔐 **Security Philosophy:** Automate defenses, dissect artifacts, harden systems.
 
 ---
 
